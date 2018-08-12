@@ -1,7 +1,7 @@
 # geth-devnet
 Go Ethereum Clique devnet workspace with 1 sealer and 2 full nodes.
 
-Network ID: 333
+Network ID: 333  
 Name: epoa
 
 Sealer node adddress: `0x0994a0d66a025ab72b34d903e126da8d638c57fb`  
